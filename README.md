@@ -1,4 +1,4 @@
-# Distributed_Geospacial_Data_Processing
+# Distributed_Geospatial_Data_Processing
 ## Sentinel-2 Distributed Processing with Dask – Bucegi Mountains
 
 This project demonstrates **distributed geospatial data processing** using **Sentinel-2 satellite imagery** and **Dask**, focused on a **specific bounding box over the Bucegi Mountains (Romania)**.
